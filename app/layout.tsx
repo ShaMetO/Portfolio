@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   description: 'Software Developer & Data Science Enthusiast',
 }
 
+
 export default function RootLayout({
   children,
 }: {
