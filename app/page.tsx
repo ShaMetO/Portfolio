@@ -451,13 +451,10 @@ export default function Home() {
                   </p>
                   <div className="flex flex-wrap gap-2 mb-4">
                     <span className="bg-primary/10 text-primary text-xs px-2 py-1 rounded-full">
-                      Python
+                      Unity
                     </span>
                     <span className="bg-primary/10 text-primary text-xs px-2 py-1 rounded-full">
-                      TensorFlow
-                    </span>
-                    <span className="bg-primary/10 text-primary text-xs px-2 py-1 rounded-full">
-                      Librosa
+                      C#
                     </span>
                   </div>
                   <div className="flex justify-end">
